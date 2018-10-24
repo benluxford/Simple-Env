@@ -1,0 +1,22 @@
+something = else
+
+// Tabs are ignored 
+
+            package = Senv
+
+            // Duplicate entry for testing
+
+            package = Senv
+
+            SENV_PREFIX = an example prefix
+
+            	// Inline style comments are ignored.
+
+	Random block text is also ignored.
+	----------------
+	Sed auctor fermentum sollicitudin. Orci varius natoque penatibus et magnis dis parturient montes,
+	nascetur ridiculus mus. Aliquam euismod lobortis purus. Nunc in arcu nec lorem fermentum fringilla
+	vel ut turpis. Sed id magna sodales, dignissim nunc vitae, mollis diam. Etiam volutpat elementum libero,
+	luctus euismod nisl convallis vehicula. Cras justo lacus, feugiat ac dapibus id, faucibus ac ipsum. Quisque
+	ultricies feugiat ornare. Curabitur id mattis arcu. Suspendisse vel risus vel turpis placerat vehicula eu id sem.
+	----------------
